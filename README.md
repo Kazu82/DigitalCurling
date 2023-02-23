@@ -1,1 +1,1 @@
-# DigitalCurling3-SimpleClient
+# DigitalCurling
